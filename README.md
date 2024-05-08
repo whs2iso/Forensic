@@ -6,7 +6,6 @@
 * [How can we Use](https://github.com/01star01ek/whs2_iso_ForensicWriteUp/discussions/1#discussion-6627526)
 * [How can we Write](https://github.com/01star01ek/whs2_iso_ForensicWriteUp/discussions/3)
 
-ㅤㅤ
 ## ℹ️ Information 
 총 문제 00개 **(업데이트 중입니다)**
 > ### 디스크 포렌식 
