@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&desc=WHS%20School2_Iso%20team&text=Forensic%20Writeup%20GitHub%20&fontSize=35&height=250&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&desc=WHS%20School2_Iso%20team&text=Forensic%20GitHub%20&fontSize=35&height=250&fontColor=black)
 
 ## 📃Notice
 화이트햇 스쿨 2기 iso팀의 포렌식 문제 풀이 및 문제 제작 레포지토리입니다.
