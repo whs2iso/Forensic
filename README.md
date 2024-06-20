@@ -7,7 +7,8 @@
 > * [How can we Write](https://github.com/whs2iso/Forensic/discussions/2#discussion-6628251)
   
 ## ℹ️ Information
-* 문제 종류
+
+문제 종류
 
 <details>
 <summary>유형별 분류(총69개)</summary>
