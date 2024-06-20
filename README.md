@@ -9,7 +9,7 @@
 ## ℹ️ Information
 
 <details>
-<summary>문제종류_유형별(총69개)</summary>
+<summary>유형별 분류(총69개)</summary>
   
 > ### disk_forensics
 > 윈도우 / 맥 / 리눅스 / 디스크복구
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary>문제종류_출제사이트별(총 69개) </summary>
+<summary>출제사이트별 분류(총 69개) </summary>
 
 > ### Dreamhack
 > 윈도우 / 맥 / 리눅스 / 디스크복구
