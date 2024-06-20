@@ -9,9 +9,7 @@
 ## ℹ️ Information
 
 > 문제 종류
->
-<details>
-<summary>유형별 분류(총69개)</summary>
+> <details> <summary>유형별 분류(총69개)</summary>
   
 > ### disk_forensics
 > 윈도우 / 맥 / 리눅스 / 디스크복구
