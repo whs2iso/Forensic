@@ -8,7 +8,7 @@
   
 ## ℹ️ Information
 
-> 문제 분류(총 69개)
+ 문제 분류(총 69개)
 <details> <summary>유형별</summary> 
     
   > ### disk_forensics
