@@ -69,6 +69,7 @@
 | SANS CTF                  | Ann’s Dark Tangent               | 1      |
 | SANS CTF                  | 8                                | 1      |
 | SANS CTF                  | Ann's Deception                  | 2      |
+</details>
 
 <details> <summary> 멀티미디어 포렌식 </summary>
 
@@ -87,14 +88,14 @@
 | DFC - 2023                | 104                              | 2      |
 | DFC - 2023                | 251                              | 3      |
 | DFC - 2023                | 302                              | 3      |
-
+</details>
 <details> <summary> 메모리 포렌식 </summary>
 
 | 출제 주최                 | 문제명                           | 난이도 |
 |---------------------------|----------------------------------|--------|
 | Suninatas                 | 30                               | 1      |
 | xcz                       | Memoryyyyy Dumpppppp             | 2      |
-
+</details>
 <details> <summary> 기타 포렌식 </summary>
 
 | 출제 주최                 | 문제명                           | 난이도 |
@@ -103,7 +104,7 @@
 | Suninatas                 | 18                               | 1      |
 | Suninatas                 | 19                               | 1      |
 | Suninatas                 | 26                               | 1      |
-
+</details>
 <details> <summary> 모바일 포렌식 </summary>
 
 | 출제 주최                 | 문제명                           | 난이도 |
@@ -111,7 +112,7 @@
 | DFC - 2021                | 204                              | 3      |
 | DFC - 2021                | 401                              | 3      |
 | DFC - 2023                | 151                              | 2      |
-
+</details>
 
 * 난이도 기준
   
