@@ -7,6 +7,12 @@
 * [How can we Write](https://github.com/whs2iso/Forensic/discussions/2#discussion-6628251)
   
 ## ℹ️ Information (총 69개)
+
+<details>
+<summary>접기/펼치기</summary>
+접은 내용(ex 소스 코드)
+</details>
+
 > ### disk_forensics
 > 윈도우 / 맥 / 리눅스 / 디스크복구
 
