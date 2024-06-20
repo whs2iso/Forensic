@@ -37,7 +37,7 @@
 </details>
 
 <details>
-> <summary>출제 사이트별 분류(총 69개) </summary>
+<summary>출제 사이트별 분류(총 69개) </summary>
 
 > ### Dreamhack
 > 윈도우 / 맥 / 리눅스 / 디스크복구
