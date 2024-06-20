@@ -33,10 +33,8 @@
 > ### system_forensics
 > > 암호ㅤ
 ㅤ
-
-</details>
-
 ㅤ
+</details>
 
 <details>
 <summary>출제 사이트별</summary>
