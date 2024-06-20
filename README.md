@@ -3,8 +3,10 @@
 ## 📃Notice
 화이트햇 스쿨 2기 iso팀의 포렌식 문제 풀이 및 문제 제작 레포지토리입니다.
 <br>아래의 공지를 참고하여 이용해주세요.
-* [How can we Use](https://github.com/whs2iso/Forensic/discussions/1#discussion-6628249)
-* [How can we Write](https://github.com/whs2iso/Forensic/discussions/2#discussion-6628251)
+> 이용방법
+[How can we Use](https://github.com/whs2iso/Forensic/discussions/1#discussion-6628249)
+> 작성규칙
+[How can we Write](https://github.com/whs2iso/Forensic/discussions/2#discussion-6628251)
   
 ## ℹ️ Information
 
