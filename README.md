@@ -10,14 +10,6 @@
 
 <details>
 <summary>포렌식 종류별</summary>
-접은 내용(ex 소스 코드)
-</details>
-
-<details>
-<summary>출제 사이트별</summary>
-접은 내용(ex 소스 코드)
-</details>
-
 > ### disk_forensics
 > 윈도우 / 맥 / 리눅스 / 디스크복구
 
@@ -39,6 +31,13 @@
 > ### system_forensics
 > > 암호ㅤ
 ㅤ
+</details>
+
+<details>
+<summary>출제 사이트별</summary>
+접은 내용(ex 소스 코드)
+</details>
+
 ## 👪composition (24.05~06)
 * 멘토
   - 문현지 멘토님
