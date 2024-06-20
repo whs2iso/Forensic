@@ -11,26 +11,19 @@
 <details> <summary>유형별</summary> 
     
   > ### disk_forensics (35)
-  > 
     
-  > ### memory_forensics
-  > RAM
+  > ### memory_forensics (1)
   
-  > ### mobile_forensics
-  > 패킷
+  > ### mobile_forensics (3)
   
-  > ### multimedia_forensics
-  > 안드로이드
-  
-  > ### network_forensics
-  > 스태가노그래피 / 파일시그니처
+  > ### multimedia_forensics (13)
+
+  > ### network_forensics (12)
     
-  > ### other_forensics
-  > 암호
+  > ### other_forensics (4)
     
-    > ### system_forensics
-    > 암호ㅤ
-    </details>
+  > ### system_forensics (1)
+  </details>
   
   <details> 
     <summary>출제 사이트</summary>
