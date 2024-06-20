@@ -11,14 +11,14 @@
 > 문제 분류(총 69개)
 <details> <summary>유형별</summary> 
     
-    > ### disk_forensics
-    > 윈도우 / 맥 / 리눅스 / 디스크복구
+  > ### disk_forensics
+  > 윈도우 / 맥 / 리눅스 / 디스크복구
     
-    > ### memory_forensics
-    > RAM
+  > ### memory_forensics
+  > RAM
     
-    > ### mobile_forensics
-    > 패킷
+   > ### mobile_forensics
+  > 패킷
     
     > ### multimedia_forensics
     > 안드로이드
