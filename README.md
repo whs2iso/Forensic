@@ -7,7 +7,7 @@
 * [How can we Write](https://github.com/whs2iso/Forensic/discussions/2#discussion-6628251)
   
 ## ℹ️ Information 
-총 문제 00개 **(업데이트 중입니다)**
+총 문제 00개 
 > ### disk_forensics
 > 윈도우 / 맥 / 리눅스 / 디스크복구
 
