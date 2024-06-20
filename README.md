@@ -8,7 +8,7 @@
   
 ## ℹ️ Information
 * 문제 종류
-<details>
+> <details>
 <summary>유형별 분류(총69개)</summary>
   
 > ### disk_forensics
@@ -34,7 +34,7 @@
 ㅤ
 </details>
 
-<details>
+> <details>
 <summary>출제 사이트별 분류(총 69개) </summary>
 
 > ### Dreamhack
