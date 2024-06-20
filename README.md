@@ -8,7 +8,7 @@
   
 ## ℹ️ Information
 
-> 문제
+> 문제 종류
 <details>
 <summary>유형별 분류(총69개)</summary>
   
@@ -72,6 +72,8 @@
 > 암호ㅤ
 
 </details>
+
+> 난이도 기준
 
 ## 👪composition (24.05~06)
 * 멘토
