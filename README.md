@@ -8,48 +8,80 @@
   
 ## ℹ️ Information
 * 문제 분류(총 69개)
-  <details> <summary>유형별</summary> 
-    
-  > ### disk_forensics (35)
-    
-  > ### memory_forensics (1)
   
-  > ### mobile_forensics (3)
-  
-  > ### multimedia_forensics (13)
+| 출제 주최             | 문제명                        | 포렌식 유형         | 난이도 |
+|-----------------------|-------------------------------|---------------------|--------|
+| Dreamhack             | basic_forensics               | 디스크 포렌식       | 1      |
+|                       | BMP Recovery                  | 디스크 포렌식       | 2      |
+|                       | Enc-JPG                       | 디스크 포렌식       | 1      |
+|                       | palm                          | 네트워크 포렌식     | 2      |
+|                       | Dream zoo                     | 네트워크 포렌식     | 2      |
+|                       | sleepingshark                 | 네트워크 포렌식     | 2      |
+|                       | Snowing!                      | 멀티미디어 포렌식   | 1      |
+|                       | video_in_video                | 멀티미디어 포렌식   | 1      |
+|                       | FFFFAAAATTT                   | 디스크 포렌식       | 1      |
+|                       | lolololologfile               | 디스크 포렌식       | 1      |
+|                       | windows search                | 디스크 포렌식       | 1      |
+| Suninatas             | 14                            | 암호 포렌식         | 1      |
+|                       | 15                            | 멀티미디어 포렌식   | 1      |
+|                       | 18                            | 암호 포렌식         | 1      |
+|                       | 19                            | 암호 포렌식         | 1      |
+|                       | 21                            | 멀티미디어 포렌식   | 1      |
+|                       | 26                            | 암호 포렌식         | 1      |
+|                       | 28                            | 디스크 포렌식       | 1      |
+|                       | 29                            | 디스크 포렌식       | 1      |
+|                       | 30                            | 메모리 포렌식       | 1      |
+|                       | 31                            | 디스크 포렌식       | 1      |
+|                       | 32                            | 디스크 포렌식       | 1      |
+| H4CKING GAME          | code                          | 멀티미디어 포렌식   | 1      |
+|                       | LineFeed                      | 멀티미디어 포렌식   | 1      |
+|                       | easy                          | 멀티미디어 포렌식   | 1      |
+|                       | art                           | 디스크 포렌식       | 1      |
+|                       | cat                           | 멀티미디어 포렌식   | 1      |
+|                       | Paint                         | 멀티미디어 포렌식   | 1      |
+| SANS CTF              | Ann's Bad AIM                 | 네트워크 포렌식     | 2      |
+|                       | Ann Skips Bail                | 네트워크 포렌식     | 2      |
+|                       | Ann’s AppleTV                 | 네트워크 포렌식     | 1      |
+|                       | The Curious Mr.X              | 네트워크 포렌식     | 2      |
+|                       | Ms.Moneymany's mysterious Malware | 네트워크 포렌식  | 2      |
+|                       | Ann’s Aurora                  | 네트워크 포렌식     | 1      |
+|                       | Ann’s Dark Tangent            | 네트워크 포렌식     | 1      |
+|                       | 8                             | 네트워크 포렌식     | 1      |
+|                       | Ann's Deception               | 네트워크 포렌식     | 2      |
+| xcz                   | Who's Notebook                | 디스크 포렌식       | 1      |
+|                       | Memoryyyyy Dumpppppp          | 메모리 포렌식       | 2      |
+|                       | ZIP                           | 디스크 포렌식       | 1      |
+|                       | File Delted                   | 디스크 포렌식       | 1      |
+|                       | XCZ Company Hacking Incident  | 디스크 포렌식       | 1      |
+| DFC - 2021            | 102                           | 디스크 포렌식       | 3      |
+|                       | 104                           | 디스크 포렌식       | 3      |
+|                       | 204                           | 모바일 디스크 포렌식| 3      |
+|                       | 302                           | 디스크 포렌식       | 3      |
+|                       | 304                           | 디스크 포렌식       | 3      |
+|                       | 401                           | 모바일 디스크 포렌식| 3      |
+| DFC - 2022            | 101                           | 디스크 포렌식       | 3      |
+|                       | 103                           | 디스크 포렌식       | 3      |
+|                       | 104                           | 디스크 포렌식       | 3      |
+|                       | 204                           | 디스크 포렌식       | 3      |
+|                       | 302                           | 디스크 포렌식       | 3      |
+|                       | 402                           | 디스크 포렌식       | 3      |
+| DFC - 2023            | 101                           | 멀티미디어 포렌식   | 1      |
+|                       | 104                           | 멀티미디어 포렌식   | 2      |
+|                       | 151                           | 모바일 시스템 포렌식| 2      |
+|                       | 201                           | 디스크 포렌식       | 3      |
+|                       | 251                           | 멀티미디어 포렌식   | 3      |
+|                       | 252                           | 디스크 포렌식       | 3      |
+|                       | 302                           | 멀티미디어 포렌식   | 3      |
+| root me               | find the cat                  | 디스크 포렌식       | 3      |
+|                       | Deleted file                  | 디스크 포렌식       | 1      |
+|                       | job interview                 | 디스크 포렌식       | 2      |
+| DFRWS - 2021          | Skimming device               | 디스크 포렌식       | 3      |
+|                       | Raspberry PI                  | 디스크 포렌식       | 3      |
+|                       | "Samsung smartphone"          | 디스크 포렌식       | 3      |
+|                       | QNAP NAS                      | 디스크 포렌식       | 3      |
+| 디지털 범인을 찾아라 - 2023 | "제 9회 문제 시나리오"      | 디스크 포렌식       | 3      |
+| 총                    | 69                            |                     |        |
 
-  > ### network_forensics (12)
-    
-  > ### other_forensics (4)
-    
-  > ### system_forensics (1)
-  </details>
-  
-  <details> 
-    <summary>출제 사이트별</summary>
-    
-    > ### Dreamhack (11)
-    
-    > ### Suninatas (11)
-    
-    > ### H4CKING GAME (6)
-    
-    > ### SANS CTF (9)
-    
-    > ### xcz (5)
-    
-    > ### DFC - 2021 (6)
-    
-    > ### DFC - 2022 (76)
-    
-    > ### DFC - 2023 (7)
-    
-    > ### root me (3)
-    
-    > ### DFRWS - 2021 (4)
-    
-    > ### 디지털 범인을 찾아라 - 2023 (1)
-    </details>
 
 * 난이도 기준
   
