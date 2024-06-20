@@ -36,10 +36,11 @@
 
 </details>
 
+ㅤ
 
 <details>
 <summary>출제 사이트별</summary>
-접은 내용(ex 소스 코드)
+
 </details>
 
 ## 👪composition (24.05~06)
