@@ -8,30 +8,29 @@
   
 ## ℹ️ Information
 
-* 문제 종류
-  <details> <summary>유형별 분류(총69개)</summary> 
+* 문제 종류(총 69개)
+  <details> <summary>유형별</summary> 
     
     > ### disk_forensics
     > 윈도우 / 맥 / 리눅스 / 디스크복구
     
     > ### memory_forensics
     > RAM
-
-> ### mobile_forensics
-> 패킷
-
-> ### multimedia_forensics
-> 안드로이드
-
-> ### network_forensics
-> 스태가노그래피 / 파일시그니처
-
-> ### other_forensics
-> 암호
-
-> ### system_forensics
-> 암호ㅤ
-ㅤ
+    
+    > ### mobile_forensics
+    > 패킷
+    
+    > ### multimedia_forensics
+    > 안드로이드
+    
+    > ### network_forensics
+    > 스태가노그래피 / 파일시그니처
+    
+    > ### other_forensics
+    > 암호
+    
+    > ### system_forensics
+    > 암호ㅤ
 </details>
 
 <details>
