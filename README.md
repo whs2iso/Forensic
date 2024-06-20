@@ -15,22 +15,22 @@
 > 윈도우 / 맥 / 리눅스 / 디스크복구
 
 > ### memory_forensics
-> > RAM
+> RAM
 
 > ### mobile_forensics
-> > 패킷
+> 패킷
 
 > ### multimedia_forensics
-> > 안드로이드
+> 안드로이드
 
 > ### network_forensics
-> > 스태가노그래피 / 파일시그니처
+> 스태가노그래피 / 파일시그니처
 
 > ### other_forensics
-> > 암호
+> 암호
 
 > ### system_forensics
-> > 암호ㅤ
+> 암호ㅤ
 ㅤ
 </details>
 
@@ -53,22 +53,22 @@
 > 윈도우 / 맥 / 리눅스 / 디스크복구
 
 > ### DFC - 2021
-> > RAM
+> RAM
 
 > ### DFC - 2022
-> > 패킷
+> 패킷
 
 > ### DFC - 2023
-> > 안드로이드
+> 안드로이드
 
 > ### root me
-> > 스태가노그래피 / 파일시그니처
+> 스태가노그래피 / 파일시그니처
 
 > ### DFRWS - 2021
-> > 암호
+> 암호
 
 > ### 디지털 범인을 찾아라 - 2023
-> > 암호ㅤ
+> 암호ㅤ
 
 </details>
 
