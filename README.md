@@ -8,7 +8,7 @@
   
 ## ℹ️ Information
 
-* 문제 분류(총 69개)
+> 문제 분류(총 69개)
   <details> <summary>유형별</summary> 
     
     > ### disk_forensics
@@ -70,7 +70,7 @@
     > 암호ㅤ
     </details>
 
-* 난이도
+> 난이도
 
 ## 👪 composition (24.05~06)
 > 멘토
