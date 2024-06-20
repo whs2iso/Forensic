@@ -6,10 +6,10 @@
 * [How can we Use](https://github.com/whs2iso/Forensic/discussions/1#discussion-6628249)
 * [How can we Write](https://github.com/whs2iso/Forensic/discussions/2#discussion-6628251)
   
-## ℹ️ Information (총 69개)
+## ℹ️ Information
 
 <details>
-<summary>포렌식 종류별</summary>
+<summary>포렌식 종류별 (총 69개)</summary>
   
 > ### disk_forensics
 > 윈도우 / 맥 / 리눅스 / 디스크복구
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary>출제 사이트별</summary>
+<summary>출제 사이트별 (총 69개) </summary>
 
 > ### Dreamhack
 > 윈도우 / 맥 / 리눅스 / 디스크복구
