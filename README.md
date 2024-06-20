@@ -6,7 +6,7 @@
 * [How can we Use](https://github.com/whs2iso/Forensic/discussions/1#discussion-6628249)
 * [How can we Write](https://github.com/whs2iso/Forensic/discussions/2#discussion-6628251)
   
-## ℹ️ Information (총 69개)
+## Information (총 69개)
 > ### disk_forensics
 > 윈도우 / 맥 / 리눅스 / 디스크복구
 
